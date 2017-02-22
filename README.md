@@ -10,8 +10,8 @@ C++
 2) Qual é a equipe?
 Niel, Fábio André, Isabella, Guilherme Gaspar.
 3) Qual é o tempo de cada um neste projeto?
-90horas
++/-90horas
 4) Porque vocês utilizaram esta linguagem?
 Por se tratar de uma linguagem completa e independente.
 5) É compativel com quais sistemas operacionais? Se for site, é responsivo?
-Linux, Windows, Android, IOS.
+Linux, Windows, Android, IOS e SO Próprio
